@@ -1,0 +1,7 @@
+site_name: Resume - Gabriel Santos
+site_url: https://oi.com/
+nav:
+    - Home: index.md
+    - About: about.md
+theme:
+  name: material
