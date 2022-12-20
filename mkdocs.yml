@@ -2,7 +2,8 @@ site_name: Resume - Gabriel Santos
 site_url: https://oi.com/
 nav:
     - Home: index.md
-    - About: about.md
+    - Pessoais: skills.md
+    - Profissionais: about.md
 
 theme:
   favicon: img/favicon.ico
@@ -18,6 +19,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: day
+  features:
+    - navigation.tabs
 
 extra_css:
   - stylesheets/extra/css
