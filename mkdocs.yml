@@ -3,5 +3,21 @@ site_url: https://oi.com/
 nav:
     - Home: index.md
     - About: about.md
+
 theme:
+  favicon: img/favicon.ico
   name: material
+  palette:
+    - scheme: slate
+      primary: deep blue
+      toggle:
+        icon: material/weather-night
+        name: dark
+    - scheme: default
+      primary: yellow
+      toggle:
+        icon: material/weather-sunny
+        name: day
+
+extra_css:
+  - stylesheets/extra/css
