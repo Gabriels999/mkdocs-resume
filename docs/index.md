@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Olá, me chamo Gabriel!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Eu sou um desenvolvedor fullstack com conhecimentos em:
 
-## Commands
+- Python
+- Django
+- JavaScript
+- Vue
+- C
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Contatos
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- email: gab.tec97@gmail.com
+- [Github](https://github.com/Gabriels999)
+- [Linkedin](https://www.linkedin.com/in/gabriel-santos-87aa58227/)
+
+## Projetos
+
+- [Despensa Digital](https://github.com/Gabriels999/despensa_digital)
+- [WatchFlix](https://github.com/Gabriels999/WatchFlix)
+- [TableCrud](https://github.com/Gabriels999/TableCrud)
+- [Twitter Clone](https://github.com/luccaribeiro/Twitter-Clone)
