@@ -1,9 +1,9 @@
 site_name: Gabriel Santos
-site_url: https://oi.com/
+site_url: https://gabriels999.github.io/mkdocs-resumes/
 nav:
     - Home: index.md
-    - Pessoais: skills.md
-    - Profissionais: about.md
+    - Pessoais: about.md
+    - Profissionais: skills.md
 
 theme:
   favicon: img/favicon.ico
