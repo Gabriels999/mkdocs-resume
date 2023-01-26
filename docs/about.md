@@ -3,6 +3,7 @@
 Eu sou um cara tímido, então quando chego nos lugares frequentemente passo a impressão de ser sério. Mas sabendo dessa questão, eu me esforço para que isso seja desconstruído com o tempo. A grande verdade é que eu sou brincalhão quando estou à vontade com algum grupo e entendo que relações pessoais são complexas, precisam de tempo, paciência e dedicação. Como ex-aspira de professor, gosto muito de ensinar e não me importo de ter que dizer 10, 20, 100 vezes a mesma coisa cada uma de um jeitinho diferente para ajudar quem está comprometido.
 Já tive algumas experiências de liderança na vida e tento me colocar no lugar das pessoas antes de tomar uma ação sobre qualquer coisa, pensando tanto na dificuldade que é gerir como também nos apelos de quem está preocupado com o operacional.
 
+
 # Minha história
 
 ## Carioca, nao da gema (1997)

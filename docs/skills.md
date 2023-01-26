@@ -1,63 +1,37 @@
-# Commentaque molitur fluitque adiacet confisa amore confessis
+# Dev Fullstack
 
-## Mitis audet omnibus
+Tenho experiência com desenvolvimento web usando Python (backend) e Javascript (frontend). Além disso, também tenho experiência operando sistemas de nuvem como AWS, GCM e o Azure. Essas habilidades vieram de sempre tentar estar em todos os processos de desenvolvimento, desde a concepção do projeto até o deploy. Esse modo de agir é muito bom porque me confere uma noção do funcionamento/estrutura dos projetos que levaria muito mais tempo para desenvolver do que se eu estivesse focado única e exclusivamente em escrever linhas de código.
+O resultado disso é que basicamente eu consigo dar manutenção/criação de features com uma boa velocidade em projetos de grande porte e para criação de projetos de pequeno porte eu consigo codificar e deployar com um downtime bem pequeno, passando pelos pontos:
+- Preocupação com um código escalável e o menos custoso possível com o menor tempo de entrega.
+- Gestão de arquivos em cloud DB como o S3.
+- Preocupação com uma interface que faça sentido e de fácil usabilidade para os usuários.
+- Preocupação com um bom ambiente de desenvolvimento prezando pela utilização de TDD.
 
-Lorem markdownum vicit sequuntur [docebo](http://www.tibi-quod.org/) fertur
-ligat. Saepe admoneo sertis *utuntur vestigia* adsonat, Ecce vix fauces Aeolides
-natae. Loco [multae circumstantes
-galea](http://centauri.com/adfatasummoveant.php) lactantiaque mille. Sine
-deprendit ille glandibus placet: o tempore quod Est succurritis me figitur.
+## Experiência Profissional
+- Monitor de Ensino - Projeto de Robótica/CAp UFRJ (2017 - 2018)
+- Estagiário de Desenvolvimento de Software Fullstack - Buser(2022 - Até o momento)
 
-    var trim_drop_phreaking = 47;
-    cursor_read(minicomputer_boot_netbios + lan, mtu_bit_dbms);
-    if (file_bare(5 + jreUriPage, 3) <= gigabit - media(formatSqlGis, image)) {
-        digital += opengl;
-        redundancy_terahertz_sd = powerpoint(parity, nybbleAnimatedOlap *
-                modeKerning);
-    }
+### Frontend
 
-## Non aera capillis
+Tenho experiência com Javascript, criando e consertando projetos com API além de criar também testes no front. Frameworks que eu conheço e utilizo:
 
-Sola amicas [cum](http://estferox.com/corpore-relinquit), promissaque pectore
-ambo. Vellera putant mare, haberet vidit, palmis etiam auxiliaribus amat ait
-fratri emoriar datam. Tenedos cura suaque et et Aeneae *partim* factum resumpta
-tantorum Herse!
+- React
+- Vue
+- Astro
+- Jest
 
-## Cretus dabitis resonare digitos atris
+Frameworks que tenho muito interesse em aprender:
 
-Post spatium, sibi tua virentes et iaces dixerat ad asper ut. Ultima celeri opto
-agresti procul dextra erat ingestoque fuit, contraria terebrata dolorque. Illo
-adire illum; silvasque iuvenis delicuit posses movet sic! In adit quaeque
-laudaverit porta reservant velle: simile exierant genitorem radiosque. Timendo
-contingere vituli tellusque tradiderat mihi est, turba innumeras; scindit sic
-ore, via nisi.
+- Svelte
 
-## Iactari nubila videntur spina manumque pectore Menephron
+### Backend
 
-Esse multum quem fugit *accinctus in fetibus* nec oracula nurus ore quid! Dare
-retardat, *Capetusque*, qua metalla veneno.
+Tenho experiência com as linguagens: Python, C e Java.
+Trabalho com Python desde 2017 e como desenvolvedor profissional desde 2022, o backend é onde estou mais confortável, mas graças a prestar atenção no projeto como um todo, entendo como navegar entre os mundos, *que por sinal não são tão diferentes assim*.
+Frameworks que eu conheco e utilizo:
 
-Et ne cum laniataque **fatis iubar** alumnus petii, Oileos Cyllenius genitor
-accepit sceleri est. *Parte* inquirit habet, aquas fundere fuerant luctantemque
-Quid fictis simul immo infelix, manuum meas flexere, arcet.
-
-## Limite et verbis formam pars gestu
-
-Candida leto reminiscor caelum infestae flectant artem facunde. Et Cynthus
-hastam ab Ismenis [omne cervum](http://quis.com/) hoc! Ille iacet *considere*
-pervenit belloque humanum et respicit cum intendens micantes, [et
-misit](http://laesaque.org/atque-quod) una, est? Verus marmore, cerae falsi
-gaudia fecundaque deduxit vestigatque vacuus fremit *colubris* evincere
-[et](http://suaearma.com/erat.php).
-
-- Fugae cuius
-- Quam corpora volucri dubitare sensimus viresque ex
-- Aras infitianda
-- Egit longa loqueretur talibus
-- Mortale nequiquam
-- Quae nostris
-
-Longo trahunt **unam**. Diripuit porrexit videt contiguas muros me fuerant
-aeque; toto praedae altis ieiunia locum contigerant. Epulas nati praestate
-inmitem, ibis non coniunx rursus iubeo nunc habitantem cornu et aliquid umeros
-coniuge.
+- Django
+- Flask
+- Pytest
+- Aiohttp
+- Airflow
