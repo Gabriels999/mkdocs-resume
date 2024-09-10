@@ -1,6 +1,6 @@
 ## 2023
 
-Implementação de um modelo de machine learning na aplicação antifraude da empresa. O modelo foi criado com sckit-learn e foi aplicada a abordagem de regressão linear.
+Implementação de um modelo de machine learning na aplicação que atua como o sistema antifraude da empresa. O modelo foi criado com sckit-learn e algumas outras bibliotecas auxiliares como pandas, numpy e seaborn. Foi aplicada uma abordagem de KNeighborsClassifier com métrica euclidiana. Foi criada uma app em um projeto django que tem um comando responsável por treinar e gerar um modelo nesses termos mencionados, e também foi criado um endpoint que é acionado toda vez que o registro de uma transação é criado e aplica a predição do modelo naquele registro.
 
 
 ## 2022
